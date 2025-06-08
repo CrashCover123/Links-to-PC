@@ -5,3 +5,5 @@ vless://44b3147f-912c-4713-a3ac-28e37b2d5a9c@109.71.240.191:28266?type=tcp&secur
 
 kostzpc@gmail.com
 afdejtwc1
+
+обои https://disk.yandex.ru/i/9sQrHNnWsX-4lw
